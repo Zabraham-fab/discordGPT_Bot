@@ -9,4 +9,4 @@ For example, when a user mentions the bot, it quickly analyzes the user's questi
 To implement this project, I utilized the Discord server, Python programming language, and OpenAI's powerful GPT-3.5 language model. GPT-3.5 is an AI language model that can produce intelligent and consistent answers based on extensive knowledge.
 This bot coding is an exciting example of using the Chat-GPT language model in real-time chat applications. 💬😊
 
-<img src="141049">
+<img src="141049.png">
